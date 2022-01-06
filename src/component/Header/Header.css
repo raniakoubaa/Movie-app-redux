@@ -1,0 +1,18 @@
+.Header{
+    display: flex;
+    justify-content: space-around;
+    background-color: cadetblue;
+    height: 50px;
+    align-items: center;
+    color: black;
+    list-style: none;
+    font-size: 20px;
+}
+li{
+    color: white;
+    
+    text-decoration: none;  
+}
+li:hover {
+    color: #111;
+}
